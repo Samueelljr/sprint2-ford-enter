@@ -1,0 +1,55 @@
+Sprint Backlog – Sprint 01
+
+📄 Histórias de Usuário Selecionadas:
+------------------------------------
+ID 1 - Como visitante, quero visualizar os nomes dos veículos destacados com uma cor específica para facilitar a identificação.
+Esforço estimado: 2 pontos
+
+ID 3 - Como visitante, quero que os links de navegação sejam descritivos e objetivos, para entender melhor para onde estou indo.
+Esforço estimado: 2 pontos
+
+📝 Meta da Sprint:
+Implementar melhorias na interface do site para destacar os nomes dos veículos com cor azul e tornar os links de navegação mais claros e descritivos, conforme as histórias de usuário priorizadas.
+
+Ótima pergunta! O **plano de ação da sprint** é o conjunto de atividades e estratégias que a equipe definiu na **Sprint Planning** para atingir a meta da sprint.
+
+Com base no seu desafio, o **plano de ação pode ser descrito assim**:
+
+---
+
+### 📝 **Plano de Ação da Sprint**
+
+1. **Análise das histórias de usuário priorizadas (ID 1 e 3)**
+
+   * Compreender os critérios de aceitação e os requisitos das histórias selecionadas.
+
+2. **Criação do repositório Git/GitHub**
+
+   * Instalar o Git localmente, criar um repositório remoto e fazer o upload inicial dos arquivos `index.html` e `contato.html`.
+
+3. **Clonagem do repositório remoto e criação de branches específicas**
+
+   * Criar a branch `index` para a implementação da história de ID 1.
+   * Criar a branch `contato` para a implementação da história de ID 3.
+
+4. **Implementação das histórias**
+
+   * **História ID 1:** Alterar a cor do texto dos nomes dos veículos para azul no `index.html`.
+   * **História ID 3:** Atualizar a descrição dos links de navegação no `contato.html`.
+
+5. **Controle de versionamento com Git**
+
+   * Commitar cada alteração nas branches correspondentes.
+   * Realizar o merge das branches `index` e `contato` com a branch principal (`main` ou `master`).
+
+6. **Push das alterações para o repositório remoto**
+
+   * Subir todos os commits da branch principal para o GitHub.
+
+7. **Documentação da Sprint**
+
+   * Criar os documentos do **Sprint Backlog** e da **Sprint Retrospective**.
+   * Fazer o upload desses documentos para o repositório remoto.
+
+🟢 Status Geral do Sprint:
+Todas as histórias planejadas foram implementadas e integradas com sucesso ao repositório principal. O objetivo da sprint foi alcançado conforme o planejado na reunião Sprint Planning.
