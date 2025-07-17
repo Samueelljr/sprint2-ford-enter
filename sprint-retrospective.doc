@@ -1,0 +1,14 @@
+Sprint Retrospective – Sprint 01
+
+ O que funcionou bem:
+- A divisão em branches facilitou a organização das alterações.
+- A comunicação com o time foi clara durante a Sprint Planning.
+- O uso do Git e GitHub permitiu bom controle de versionamento.
+
+ O que não funcionou bem:
+- Demora inicial na configuração do repositório.
+- Algumas dúvidas sobre como nomear corretamente os commits.
+
+ Sugestões de melhoria:
+- Criar um modelo padrão para commit messages.
+- Definir um tempo para resolver conflitos de merge.
